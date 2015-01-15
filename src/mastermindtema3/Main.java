@@ -52,9 +52,7 @@ public class Main extends javax.swing.JFrame {
         jButtonBolaAmarilla.setEnabled(false);
         jButtonBolaTurquesa.setEnabled(false);
         jButtonBolaAzul.setEnabled(false);
-        
-        
-        
+
     }
 
     /**
